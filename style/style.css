@@ -1,6 +1,7 @@
 
 
 body {
+    height: 75vh;
     align-items: center;
     background-color: #d465f0;
     display: flex;
