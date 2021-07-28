@@ -69,6 +69,19 @@ input::-webkit-outer-spin-button,input::-webkit-inner-spin-button {
       -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
 }
 
+.start-btn-clicked{
+    margin-top: 3%;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    background-color: #d64cf8;
+    text-align: center;
+    box-shadow: inset -8px -8px 12px 0 rgba(255, 255, 255, 0.3),
+      inset 12px 12px 16px 0 rgba(0, 0, 0, 0.25);
+      
+}
+
 .counter{
     margin-top: 2%;
     display: flex;
